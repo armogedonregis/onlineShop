@@ -1,0 +1,591 @@
+{"products":[{
+    "id": 1,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "4000.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Austria"
+},
+{
+    "id": 2,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "France"
+},
+{
+    "id": 3,
+    "category": "Organic",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Milk",
+    "country": "Austria"
+},
+{
+    "id": 4,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "France"
+},
+{
+    "id": 5,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Milk",
+    "country": "Austria"
+},
+{
+    "id": 6,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "France"
+},
+{
+    "id": 7,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Milk",
+    "country": "France"
+},
+{
+    "id": 8,
+    "category": "Organic",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "France"
+},
+{
+    "id": 9,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Milk",
+    "country": "Austria"
+},
+{
+    "id": 10,
+    "category": "Organic",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Milk",
+    "country": "Austria"
+},
+{
+    "id": 11,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Milk",
+    "country": "Austria"
+},
+{
+    "id": 12,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "Austria"
+},
+{
+    "id": 13,
+    "category": "Organic",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "124.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Austria"
+},
+{
+    "id": 14,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "776.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "France"
+},
+{
+    "id": 15,
+    "category": "Organic",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "12.76",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "France"
+},
+{
+    "id": 16,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "13.75",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "France"
+},
+{
+    "id": 17,
+    "category": "Seafood",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "12.656",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "Germany"
+},
+{
+    "id": 18,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "234.12",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "Austria"
+},
+{
+    "id": 19,
+    "category": "Seafood",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "111.22",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "Germany"
+},
+{
+    "id": 20,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "Germany"
+},
+{
+    "id": 21,
+    "category": "Seafood",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crab",
+    "country": "Germany"
+},
+{
+    "id": 22,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Germany"
+},
+{
+    "id": 23,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Germany"
+},
+{
+    "id": 24,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Germany"
+},
+{
+    "id": 25,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Germany"
+},
+{
+    "id": 26,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Germany"
+},
+{
+    "id": 27,
+    "category": "Fruits",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Germany"
+},
+{
+    "id": 28,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 29,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 30,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 31,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Netherland"
+},
+{
+    "id": 32,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Netherland"
+},
+{
+    "id": 33,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 34,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 35,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "157.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 36,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "200.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Netherland"
+},
+{
+    "id": 37,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "300.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Netherland"
+},
+{
+    "id": 38,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "500.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Sweden"
+},
+{
+    "id": 39,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "600.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Ferm",
+    "country": "Austria"
+},
+{
+    "id": 40,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "700.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 41,
+    "category": "Backery",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "800.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 42,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "906.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 43,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "1372.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Austria"
+},
+{
+    "id": 44,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "1566.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 45,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "1789.53",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Austria"
+},
+{
+    "id": 46,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "2001.11",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 47,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "2798.53",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 48,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "3125.17",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Austria"
+},
+{
+    "id": 49,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "3300.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Austria"
+},
+{
+    "id": 50,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "3800.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Austria"
+},
+{
+    "id": 51,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "3900.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Sweden"
+},
+{
+    "id": 52,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "4300.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Sweden"
+},
+{
+    "id": 53,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "4500.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Crous",
+    "country": "Austria"
+},
+{
+    "id": 54,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "5000.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Sweden"
+},
+{
+    "id": 55,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Sweden"
+},
+{
+    "id": 56,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Austria"
+},
+{
+    "id": 57,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Austria"
+},
+{
+    "id": 58,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "400.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Austria"
+},
+{
+    "id": 59,
+    "category": "Fruits & Vegetables",
+    "title": "Super Juicy Tomatoes 400g",
+    "price": "567.00",
+    "raiting": "20 reviews",
+    "imageUrl": "https://picsum.photos/300/300",
+    "brand": "Adidas",
+    "country": "Austria"
+}
+]}

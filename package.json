@@ -1,0 +1,50 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc",
+    "test": "jest",
+    "db:start": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "@artsy/fresnel": "^3.2.1",
+    "@reduxjs/toolkit": "^1.7.1",
+    "@types/react-burger-menu": "^2.8.2",
+    "@types/redux-logger": "^3.0.9",
+    "@types/styled-components": "^5.1.18",
+    "autoprefixer": "^10.4.0",
+    "axios": "^0.24.0",
+    "babel-plugin-twin": "^1.0.2",
+    "json-server": "^0.17.0",
+    "konsta": "^0.7.1",
+    "next": "latest",
+    "next-images": "^1.8.4",
+    "postcss": "^8.4.5",
+    "react": "^17.0.2",
+    "react-app": "^1.1.2",
+    "react-burger-menu": "^3.0.6",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.0",
+    "redux-logger": "^3.0.6",
+    "styled-components": "^5.3.3",
+    "tailwindcss": "^3.0.8",
+    "twin.macro": "^2.8.2"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.0.0",
+    "@testing-library/react": "^12.1.0",
+    "@testing-library/user-event": "^13.0.0",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.9.1",
+    "@types/react": "^17.0.21",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-redux": "^7.1.18",
+    "jest": "^27.2.0",
+    "jest-css-modules-transform": "^4.2.0",
+    "ts-jest": "^27.0.5",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.4"
+  }
+}
